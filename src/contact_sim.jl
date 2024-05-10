@@ -35,7 +35,8 @@ export solve_lcp,
        single_stance!,
        footstrike,
        get_ball_contact_jacobian,
-       get_block_contact_jacobian
+       get_block_contact_jacobian,
+       get_rod_contact_jacobian
 
 
 end
